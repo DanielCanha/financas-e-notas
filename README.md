@@ -31,3 +31,4 @@ O caminho exato do banco é exibido na barra inferior do aplicativo. Ao fechar, 
 
 O build deve ser feito separadamente em cada sistema operacional. O arquivo `.spec` inclui os plugins do Qt para evitar o erro do plugin `xcb` no Linux.
 # financas-e-notas
+# financas-e-notas
