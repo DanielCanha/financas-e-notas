@@ -33,3 +33,4 @@ O build deve ser feito separadamente em cada sistema operacional. O arquivo `.sp
 # financas-e-notas
 # financas-e-notas
 # financas-e-notas
+# financas-e-notas
